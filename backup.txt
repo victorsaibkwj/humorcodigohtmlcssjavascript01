@@ -149,7 +149,8 @@
     const videos = [
       {id:"AbdWuCKVbgk",titulo:"RICA GAMES TÁ SÓ APODR3C3NDO"},
       {id:"WuHbPIjU-Q8",titulo:"rica games muito irritado"},
-      {id:"ugWuZ7RCV-g",titulo:"Menino Thomas descobrindo AO VIVO que o Rica Games saiu com uma garota de programa"}
+      {id:"ugWuZ7RCV-g",titulo:"Menino Thomas descobrindo AO VIVO que o Rica Games saiu com uma garota de programa"},
+      {id:"DDLY1Bq_DY8",titulo:"RICA GAMES VAI SER PROCESSADO CRIMINALMENTE POR RENANPLAY, ENTENDA"}
      
      
     ];
